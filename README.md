@@ -1,2 +1,2 @@
 # Spring-boot-Projects
-Author - Pranav salunkhe
+Author - Pranav salunkhe (the author)
